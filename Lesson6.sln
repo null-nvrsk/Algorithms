@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_HashFunc", "1_HashFunc\1_HashFunc.csproj", "{29C557D3-0996-4EB6-8B45-E27D2B593067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_BinaryTree", "2_BinaryTree\2_BinaryTree.csproj", "{E2A395D9-F146-41E1-B97C-2FFDFA0A2C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C557D3-0996-4EB6-8B45-E27D2B593067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C557D3-0996-4EB6-8B45-E27D2B593067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C557D3-0996-4EB6-8B45-E27D2B593067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C557D3-0996-4EB6-8B45-E27D2B593067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A395D9-F146-41E1-B97C-2FFDFA0A2C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A395D9-F146-41E1-B97C-2FFDFA0A2C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A395D9-F146-41E1-B97C-2FFDFA0A2C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A395D9-F146-41E1-B97C-2FFDFA0A2C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E1C20F4-BD80-49E2-BA6A-178240B53440}
+	EndGlobalSection
+EndGlobal
